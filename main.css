@@ -1,34 +1,34 @@
 html {
-  background-color: PeachPuff; 
+  background-color: peachPuff; 
 }
 
 p {	
-  background-color: PeachPuff; 
+  background-color: peachPuff; 
   color: black;
 }
 
 img {
-  border-style: LightSteelBlue 1px inset; 
+  border-style: lightsteelBlue 1px inset; 
   width: 100px; 
 }
 
 h1 {
   font-family: 'Trebuchet MS', sans-serif 48px normal; 
-  color: SlateGrey;
-  box-shadow: 2px 4px DarkGrey;
+  color: slateGrey;
+  box-shadow: 2px 4px darkGrey;
 }
 
 h2 {
   margin: 16px 10px 12px 8px;
-  text-shadow: 0 3px 0 SlateGrey;
-  color: DarkGrey; 	  
+  text-shadow: 0 3px 0 slateGrey;
+  color: darkGrey; 	  
 }
 
 
 h3 {
   margin: 0 auto 0 auto; 
-  text-shadow: 0 3px 0 SlateGrey;
-  color: DarkGrey;  	
+  text-shadow: 0 3px 0 slateGrey;
+  color: darkGrey;  	
 }
 
 header {
